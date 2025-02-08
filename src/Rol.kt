@@ -1,3 +1,3 @@
 enum class Rol {
-    ESTUDIANTE, PROFESOR
+    ESTUDIANTE, PROFESOR, PARADO
 }
